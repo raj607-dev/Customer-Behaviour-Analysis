@@ -1,8 +1,5 @@
 # 🛍️ Customer Shopping Behavior Analysis — Power BI & SQL Project
-> **Why This Project Stands Out:** A complete **end-to-end data analytics solution** integrating Python, SQL, and Power BI to uncover actionable insights into retail shopping patterns.  
-> It transforms raw customer transaction data into a visually interactive dashboard revealing spending habits, loyalty behavior, and revenue opportunities.
 
----
 
 ## 📘 Overview
 This project analyzes **customer shopping behavior** using transactional data from **3,900 purchases** across multiple product categories.  
@@ -130,7 +127,4 @@ It demonstrates practical skills in **data engineering, analytics, and visualiza
 
 ---
 
-## 👩‍💻 Developed By
-**Shradha Pramod Pol**  
-💼 [LinkedIn](https://www.linkedin.com/in/shradhapolofficial)  
-📂 [GitHub](https://github.com/shradha-pol)
+
